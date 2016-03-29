@@ -1,0 +1,28 @@
+name: jenings seminars
+favicon: null
+layout_spectrum: 0.03205310367047787
+typography_spectrum: 0.9753736883867532
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9716357963625342
+  lightness: 0.8277524732984602
+  saturation: 0.48315786966122687
+  rhythmicContrast: 0.4997021248564124
+purpose: []
